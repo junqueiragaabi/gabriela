@@ -463,7 +463,7 @@ pre code{
 
 .intro-header .site-heading,.intro-header .post-heading,.intro-header .page-heading{
   padding:85px 0 55px;
-  color:#fff;
+  color:#000;
 }
 
 @media only screen and (min-width:768px){
