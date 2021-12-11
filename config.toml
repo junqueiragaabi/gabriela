@@ -17,7 +17,7 @@ home = ["HTML", "RSS", "Algolia"]
   unsafe= true
 
 [params]
-  header_image = "img/DSC_0427.JPG"
+  header_image = "img/ausentes.png"
   copyright = "Gabriela Junqueira"
   SEOTitle = "Gabriela Junqueira"
   title = "PhD student"
@@ -59,8 +59,8 @@ home = ["HTML", "RSS", "Algolia"]
   disqus_site = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = false
-  friends = false
+  reward = true
+  friends = true
   bookmarks = true
   about_me = true
 
