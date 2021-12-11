@@ -21,7 +21,7 @@ home = ["HTML", "RSS", "Algolia"]
   copyright = "Gabriela Junqueira"
   SEOTitle = "Gabriela Junqueira"
   title = "PhD student"
-  description = "by Gabriela Junqueira"
+  description = "Blog by Gabriela Junqueira"
   keyword = "escrever"
   slogan = "PhD student in Ecology"
   google_fonts = ""
@@ -107,7 +107,7 @@ home = ["HTML", "RSS", "Algolia"]
   href = "https://unsplash.com"
   
   [[params.addtional_menus]]  
-  title =  "BOOKS"
+  title =  "Books"
   href =  "/top/books/"
   [[params.addtional_menus]]
   title =  "ARCHIVE"
