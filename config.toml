@@ -24,7 +24,7 @@ home = ["HTML", "RSS", "Algolia"]
   description = "Blog by Gabriela Junqueira"
   keyword = "escrever"
   slogan = "PhD student in Ecology"
-  google_fonts = ""
+  google_fonts = "Ubuntu"
   image_404 = ""
   title_404 = ""
   omit_categories = false
@@ -87,7 +87,7 @@ home = ["HTML", "RSS", "Algolia"]
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
   researchgate   = "https://www.researchgate.net/profile/Maria-Junqueira-2"
-  rss            = true
+  rss            = false
   
   [[params.friend_link]]
   title = "Linda"
