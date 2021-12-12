@@ -110,7 +110,7 @@ home = ["HTML", "RSS", "Algolia"]
   title =  "Books"
   href =  "/top/books/"
   [[params.addtional_menus]]
-  title =  "ARCHIVE"
+  title =  "Archive"
   href =  "/top/archive/"
   [[params.addtional_menus]]
   title =  "About me"

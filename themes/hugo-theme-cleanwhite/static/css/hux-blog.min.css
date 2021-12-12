@@ -163,9 +163,8 @@ p{
 }
 
 h1{
-  font-family:"Noto Sans CJK",sans-serif,-apple-system;
+  font-family:'Helvetica',sans-serif;
   line-height:1.1;
-  text-transform: uppercase;
 }
 h2,h3{
   font-family:"Noto Sans CJK",sans-serif,-apple-system;
@@ -368,7 +367,8 @@ pre code{
   left:0;
   width:100%;
   z-index:3;
-  font-family:'Thrillers Regular','Arial Black',sans-serif,-apple-system;
+  font-family:'Helvetica',sans-serif;
+  font-style: bold;
   line-height:1.9;
   font-weight:400;
 }
@@ -376,19 +376,19 @@ pre code{
   font-weight:400;
   color:#fff;
   height:56px;
+  font-style: bold;
   line-height:25px;
-  font-size:28px;
-  text-transform:uppercase;
+  font-size:23px;
+  letter-spacing:1px;
 }
 .navbar-custom .navbar-brand:hover{
-  color:rgba(255,255,255,.8);
+  color:rgba(94,92,93);
 }
 .navbar-custom .nav li a{
-  font-size:28px;
-  line-height:32px;
+  font-size:23px;
+  line-height:15px;
+  height:56px;
   font-weight:400;
-  letter-spacing:1px;
-  text-transform:uppercase;
 }
 .navbar-custom .nav li a:active{
   background:rgba(0,0,0,.12);
@@ -408,14 +408,14 @@ pre code{
     line-height:10px;
   }
   .navbar-custom .navbar-brand:hover,.navbar-custom .navbar-brand:focus{
-    color:rgba(40,168,125, 0.8);
+    color:rgba(94,92,93);
   }
   .navbar-custom .nav li a{
     color:#fff;
     padding:10px;
   }
   .navbar-custom .nav li a:hover,.navbar-custom .nav li a:focus{
-    color:rgba(40,168,125, 0.8);
+    color:rgba(94,92,93);
   }
   .navbar-custom .nav li a:active{
     background:0 0;
@@ -474,11 +474,12 @@ pre code{
   background-size:cover;
   -o-background-size:cover;
   margin-bottom:0;
+  font-family:'Times New Roman',serif;
 }
 
 @media only screen and (min-width:768px){
   .intro-header{
-    margin-bottom:20px;
+    margin-bottom:5px;
   }
 }
 
@@ -507,15 +508,16 @@ pre code{
   text-align:center;
 }
 .intro-header .site-heading h1,.intro-header .page-heading h1{
+  font-family:'Helvetica',sans-serif;
   margin-top:0;
-  font-size:4.8rem;
-  line-height:.9;
+  font-size:12px;
+  line-height:1.9
   letter-spacing:1px;
 }
 .intro-header .site-heading .subheading{
-  font-family:"Noto Sans CJK",sans-serif;
+  font-family:'Helvetica',sans-serif;
   font-style:italic;
-  font-size:16px;
+  font-size:14px;
   line-height:1.1;
   display:block;
   font-weight:400;
@@ -524,8 +526,8 @@ pre code{
 
 @media only screen and (min-width:768px){
   .intro-header .site-heading h1,.intro-header .page-heading h1{
-    font-size:9.3rem;
-    letter-spacing:1.25px;
+    font-size:60px;
+    letter-spacing:1px;
   }
   .intro-header .site-heading .subheading{
     font-size:2.7rem;
@@ -541,7 +543,7 @@ pre code{
   display:block;
 }
 .intro-header .post-heading .meta{
-  font-family:'Amulya','Arial','Helvetica',sans-serif;
+  font-family:'Helvetica',sans-serif;
   font-weight:600;
   font-size:1.4rem;
 }
@@ -716,7 +718,6 @@ form .row:first-child .floating-label-form-group{
 .btn{
   font-family:'Thrillers Black','Arial', sans-serif,-apple-system;
   line-height:1.7;
-  text-transform:uppercase;
   font-size:1.4rem;
   font-weight:400;
   letter-spacing:1px;
@@ -737,7 +738,6 @@ form .row:first-child .floating-label-form-group{
 .pager li>a,.pager li>span{
   font-family:'Thrillers SemiBold','Arial',sans-serif,-apple-system;
   line-height:1.7;
-  text-transform:uppercase;
   font-size:1.8rem;
   font-weight:400;
   letter-spacing:.1rem;
