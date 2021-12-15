@@ -70,7 +70,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   [params.social]
   email          = "mg.junqueira@hotmail.com"
-  #facebook      = "full profile url in facebook"
+  researchgate    = "https://www.researchgate.net/profile/Maria-Junqueira-2"
   #googleplus    = "full profile url in googleplus"
   twitter       = "https://twitter.com/junqueiragaabi"
   #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
@@ -86,7 +86,6 @@ home = ["HTML", "RSS", "Algolia"]
   #keybase       = "full profile url in keybase"
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
-  researchgate   = "https://www.researchgate.net/profile/Maria-Junqueira-2"
   rss            = false
   
   [[params.friend_link]]

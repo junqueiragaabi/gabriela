@@ -1,19 +1,25 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+<title>Font Awesome 5 Icons</title>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<script src='https://kit.fontawesome.com/4d0424f6d0.js' crossorigin='anonymous'></script>
 <!-- Sidebar Container -->
 <div class="
     col-lg-3 col-lg-offset-0
     col-md-3 col-md-offset-0
     col-sm-12
     col-xs-12
-    sidebar-container
-">
+    sidebar-container">
 
     <!-- Short About -->
   	{{ if .Site.Params.about_me }}
       <section class="visible-md visible-lg">
   	  <h6> </h6>
+  	  <!-- div define uma seção em um documento -->
           <div class="short-about">
               {{ with .Site.Params.sidebar_avatar }}
+              <!-- a for hyperlink, hrel = url of the page the link goes -->
               <a href="{{ "/top/about" | relLangURL }}">
                  <img src="{{ . | relURL }}" alt="avatar" style="cursor: pointer" />
               </a>
@@ -22,11 +28,15 @@
                   <p>{{ . }}</p>
               {{ end }}
              <!-- SNS Link -->
+             <!-- ul representa uma lista de itens sem ordem rígida -->
              <ul class="list-inline">
              {{ if .Site.Params.social.email }}
+             <!-- li representar um item que faz parte de uma lista -->
              <li>
                  <a href="mailto:{{ .Site.Params.social.email }}">
+                   <!-- span  inline para conteúdo fraseado -->
                      <span class="fa-stack fa-lg">
+                        <!-- i destacar em ? -->
                          <i class="fa fa-circle fa-stack-2x"></i>
                          <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
                      </span>
@@ -43,12 +53,12 @@
                    </a>
                </li>
                {{ end }}
-               {{ with .Site.Params.social.facebook }}
+               {{ with .Site.Params.social.researchgate }}
                <li>
-                   <a target="_blank" href="{{ . }}">
+                   <a href="{{ . }}">
                        <span class="fa-stack fa-lg">
                            <i class="fa fa-circle fa-stack-2x"></i>
-                           <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                           <i class="fab fa-researchgate fa-stack-1x fa-inverse"></i>
                        </span>
                    </a>
                </li>
@@ -152,3 +162,4 @@
     </section>
     {{ end }}
 </div>
+</html>
