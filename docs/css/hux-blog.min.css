@@ -320,14 +320,14 @@ pre code{
     line-height:20px;
   }
   .navbar-custom .navbar-brand:hover,.navbar-custom .navbar-brand:focus{
-    color:rgba(40,168,125, 0.8);
+    color:rgba(54,67,11, 0.8);
   }
   .navbar-custom .nav li a{
     color:#fff;
     padding:12px;
   }
   .navbar-custom .nav li a:hover,.navbar-custom .nav li a:focus{
-    color:rgba(40,168,125, 0.8);
+    color:rgba(54,67,11, 0.8);
   }
   .navbar-custom .nav li a:active{
     background:0 0;
@@ -841,8 +841,8 @@ body{
   background-color:inherit;
 }
 .navbar-default .navbar-toggle:active{
-  color:rgba(40,168,125, 0.8);
-  background-color:rgba(40,168,125, 0.8);
+  color:rgba(54,67,11, 0.8);
+  background-color:rgba(54,67,11, 0.8);
 }
 .navbar-default .navbar-toggle{
   border-color:transparent;
