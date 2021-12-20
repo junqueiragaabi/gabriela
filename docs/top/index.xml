@@ -12,7 +12,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://junqueiragaabi.github.io/gabriela/top/about/</guid>
-      <description></description>
+      <description>About me  li:not(:last-child) { margin-bottom: 2px; }  Escrever
+Escrever
+Topico 1 Escrever
+Topico 2 Escrever
+ CV  Education &amp;amp; Professional Expericence Teaching Publications Skills  Education  Teaching Publications       Skills </description>
     </item>
     
     <item>

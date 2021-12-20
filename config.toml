@@ -59,7 +59,7 @@ home = ["HTML", "RSS", "Algolia"]
   disqus_site = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true
+  reward = false
   friends = true
   bookmarks = true
   about_me = true
@@ -89,8 +89,8 @@ home = ["HTML", "RSS", "Algolia"]
   rss            = false
   
   [[params.friend_link]]
-  title = "Linda"
-  href =  "https://zhaozhihan.com"
+  title = "#ForaBolsonaro"
+  href =  "https://www.campanhaforabolsonaro.com.br/"
 
   [[params.bookmark_link]]
   title =  "Martin Fowler"
@@ -104,6 +104,8 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.bookmark_link]]
   title = "unsplash"
   href = "https://unsplash.com"
+  
+  
   
   [[params.addtional_menus]]  
   title =  "Books"
@@ -128,7 +130,7 @@ notAlternative = true
 vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
 params = ["categories", "tags"] 
 
-[markup]
+#[markup]
   [markup.tableOfContents]
     endLevel = 2
     startLevel = 1

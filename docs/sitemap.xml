@@ -2,81 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://junqueiragaabi.github.io/gabriela/2019/01/09/clean-white-theme-for-hugo/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/post/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/categories/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/tags/istio/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/tags/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/categories/tech/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/2018/06/02/istio08/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/2018/05/24/set_up_my_ubuntu_desktop/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/categories/tips/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/tags/ubuntu/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/tags/microservice/</loc>
-    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/tags/security/</loc>
-    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/2018/05/23/external_system_auth/</loc>
-    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/2018/05/23/service_2_service_auth/</loc>
-    <lastmod>2018-05-23T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/2018/05/22/user_authentication_authorization/</loc>
-    <lastmod>2018-05-23T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/2018/05/23/istio-auto-injection-with-webhook/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/tags/kubernetes/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/categories/life/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/tags/travel/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://junqueiragaabi.github.io/gabriela/2018/05/01/may-day-jiulonghu/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://junqueiragaabi.github.io/gabriela/search/placeholder/</loc>
   </url><url>
     <loc>https://junqueiragaabi.github.io/gabriela/top/about/</loc>
   </url><url>
     <loc>https://junqueiragaabi.github.io/gabriela/top/books/</loc>
   </url><url>
+    <loc>https://junqueiragaabi.github.io/gabriela/categories/</loc>
+  </url><url>
+    <loc>https://junqueiragaabi.github.io/gabriela/</loc>
+  </url><url>
     <loc>https://junqueiragaabi.github.io/gabriela/top/archive/</loc>
   </url><url>
     <loc>https://junqueiragaabi.github.io/gabriela/search/</loc>
+  </url><url>
+    <loc>https://junqueiragaabi.github.io/gabriela/tags/</loc>
   </url><url>
     <loc>https://junqueiragaabi.github.io/gabriela/top/</loc>
   </url>

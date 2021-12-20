@@ -67,7 +67,6 @@ p{
 h1{
   font-family:'Thrillers Black','Arial Black','Arial','Helvetica',sans-serif,-apple-system;
   line-height:1.1;
-  text-transform: uppercase;
 }
 h2,h3,h4{
   font-family:'Thrillers SemiBold','Arial Black','Arial','Helvetica',sans-serif,-apple-system;
@@ -275,7 +274,6 @@ pre code{
   height:56px;
   line-height:25px;
   font-size:28px;
-  text-transform:uppercase;
 }
 .navbar-custom .navbar-brand:hover{
   color:rgba(255,255,255,.8);
@@ -285,7 +283,6 @@ pre code{
   line-height:32px;
   font-weight:400;
   letter-spacing:1px;
-  text-transform:uppercase;
 }
 .navbar-custom .nav li a:active{
   background:rgba(0,0,0,.12);
@@ -409,7 +406,7 @@ pre code{
   line-height:.9;
 }
 .intro-header .site-heading .subheading{
-  font-family:'Thrillers Light','Georgia','Times New Roman','Times','Times-Roman',serif,-apple-system;
+  font-family:'Ubuntu','Input Sans','Arial','Helvetica',sans-serif;
   font-size:15px;
   line-height:1.1;
   display:block;
@@ -612,7 +609,6 @@ form .row:first-child .floating-label-form-group{
 .btn{
   font-family:'Thrillers Black','Arial', sans-serif,-apple-system;
   line-height:1.7;
-  text-transform:uppercase;
   font-size:14px;
   font-weight:400;
   letter-spacing:1px;
@@ -690,7 +686,7 @@ body{
   border:1.2px solid rgba(255,255,255,.8);
   border-radius:999em;
   padding:2px 8px 2px;
-  font-family:'Amulya','Arial',sans-serif,-apple-system;
+  font-family:'Ubuntu','Input Sans','Arial','Helvetica',sans-serif;
   color:#fff;
   line-height:16px;
   font-size:12px;
@@ -774,7 +770,7 @@ body{
 
 .one-tag-list .tag-text{
   font-weight:300;
-  font-family:'Thrillers Black','Arial', sans-serif,-apple-system;
+  font-family:'Ubuntu','Input Sans','Arial','Helvetica',sans-serif;
   line-height:1.7;
 }
 .one-tag-list .post-preview{

@@ -122,7 +122,7 @@
       {{ if .Site.Params.bookmarks }}
       <section>
           <hr>
-          <h6>QUICK LINK</h6>
+          <h6>Quick Link</h6>
           <ul class="list-inline">
               {{ range .Site.Params.bookmark_link }}
               <li><a target="_self" href="{{.href | relLangURL}}">{{.title}}</a></li>
@@ -135,7 +135,7 @@
         {{ if .Site.Params.featured_tags }}
         <section>
             <hr class="hidden-sm hidden-xs">
-            <h6>FEATURED TAGS</h6>
+            <h6>Featured Tags</h6>
             <div class="tags">
                 {{ $featured_condition_size := .Site.Params.featured_condition_size }}
                 {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
@@ -153,7 +153,7 @@
     {{ if .Site.Params.friends }}
     <section>
         <hr class="hidden-sm hidden-xs">
-        <h6>INTERESTS</h6>
+        <h6>Interests</h6>
         <ul class="list-inline">
             {{ range .Site.Params.friend_link }}
             <li><a target="_blank" href="{{.href | relLangURL}}">{{.title}}</a></li>
