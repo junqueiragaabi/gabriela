@@ -21,26 +21,58 @@ Escrever
 
 <hr/> 
 
-#### **CV**
+#### **Curriculum Vitae**
 
-* [Education & Professional Expericence](#education)
+* [Academic Journey](#education)
 * [Teaching](#teaching)
 * [Publications](#publications)
 * [Skills](#skills)
 
-##### Education {#education}
+##### Academic Journey {#education}
+
+<ul>
+
+ <li style="color:#282828;font-style:initial;"><b>Ph.D. in Ecology</b> <small>(since 2020)</small></li>
+  <ul>
+    <li style="font-size:13px;"><a href="http://www.uem.br/">Universidade Estadual de Maringá</a>, Maringá, Brazil</li>
+    <li style="font-size:13px;"><ins>Advisor:</ins> <a href="http://lattes.cnpq.br/3800691745531251">Adriano Sanches Melo</a> </li>
+    <li style="font-size:13px;"><ins>Topics:</ins> Community ecology, limnology, floodplain, periphyton, diatoms</li>
+  </ul>
+
+ <li style="color:#282828;font-style:initial;"><b>M.Sc. in Biology</b> <small>(2018–2020)</small></li>
+  <ul>
+    <li style="font-size:13px;"><a href="http://www.uem.br/">Universidade Estadual de Maringá</a>, Rio Grande, Brazil</li>
+    <li style="font-size:13px;"><ins>Advisor:</ins> <a href="http://lattes.cnpq.br/3800691745531251">Fabiana Schneck</a> </li>
+    <li style="font-size:13px;"><ins>Topics:</ins> Community ecology, limnology, floodplain, periphyton, diatoms</li>
+  </ul>
+
+ <li style="color:#282828;font-style:initial;"><b>Lic in Biology</b> <small>(2014–2017)</small></li>
+  <ul>
+    <li style="font-size:13px;"><a href="http://www.uem.br/">Universidade Estadual de Maringá</a>, Maringá, Brazil</li>
+    <li style="font-size:13px;"><ins>Advisor:</ins> <a href="http://lattes.cnpq.br/3800691745531251">Liliana Rodriges</a> </li>
+    <li style="font-size:13px;"><ins>Topics:</ins> Community ecology, limnology, floodplain, periphyton, diatoms</li>
+  </ul>
 
 
+</ul>
 
 <hr/>
 
 ##### Teaching {#teaching}
 
 
+<hr/>
+
 ##### Publications {#publications}
 
--
+*
 
--
+*
+
+<hr/>
 
 ##### Skills {#skills}
+
+
+
+
