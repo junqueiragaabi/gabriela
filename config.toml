@@ -70,7 +70,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   [params.social]
   email          = "mg.junqueira@hotmail.com"
-  researchgate    = "https://www.researchgate.net/profile/Maria-Junqueira-2"
+  researchgate  = "https://www.researchgate.net/profile/Maria-Junqueira-2"
   #googleplus    = "full profile url in googleplus"
   twitter       = "https://twitter.com/junqueiragaabi"
   #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
@@ -88,6 +88,18 @@ home = ["HTML", "RSS", "Algolia"]
   #git           = "full profile url for git user"
   rss            = false
   
+  [[params.friend_link]]
+  title = "Diatoms"
+  href = "https://diatoms.org/what-are-diatoms"
+  [[params.friend_link]]
+  title = "Limnology"
+  href =  "https://www.aslo.org/what-is-aquatic-science/what-is-limnology/#:~:text=Limnology%20is%20the%20study%20of,drainage%20basins%20and%20the%20atmosphere.&text=Saline%20waters%20(%3E%200.3%25%20or,are%20excluded%20from%20this%20definition."
+  [[params.friend_link]]
+  title = "Beta diversity"
+  href =  "https://methodsblog.com/2015/05/27/beta_diversity/"
+  [[params.friend_link]]
+  title = "Dataviz"
+  href =  "https://www.tableau.com/pt-br/learn/articles/data-visualization"
   [[params.friend_link]]
   title = "#ForaBolsonaro"
   href =  "https://www.campanhaforabolsonaro.com.br/"
